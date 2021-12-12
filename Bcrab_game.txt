@@ -1,1 +1,10 @@
-
+{
+    "items": [
+        {
+            "accs": [
+                "username [id]"
+            ],
+            "hwid": "2212"
+        }
+    ]
+}
