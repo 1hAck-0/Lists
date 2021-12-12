@@ -1,6 +1,11 @@
-
 {
     "items": [
+        {
+            "accs": [
+                "username [id]"
+            ],
+            "hwid": "2212"
+        },
         {
             "accs": [
                 "username [id]"
