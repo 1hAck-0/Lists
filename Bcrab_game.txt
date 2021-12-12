@@ -9,31 +9,3 @@
         }
     ]
 }
-{
-    "items": [
-        {
-            "accs": [
-                "username [id]"
-            ],
-            "hwid": "2212"
-        }
-    ]
-}{
-    "items": [
-        {
-            "accs": [
-                "username [id]"
-            ],
-            "hwid": "2212"
-        }
-    ]
-}{
-    "items": [
-        {
-            "accs": [
-                "username [id]"
-            ],
-            "hwid": "2212"
-        }
-    ]
-}
